@@ -193,22 +193,16 @@ figcaption {
 }
 
 #name,
-#email {
+#email,
+#message {
   height: 30px;
   position: relative;
   width: 80%;
   padding: 10px;
   margin: 5px;
   font-weight: bold;
-}
-
-#message {
-  height: 100px;
-  position: relative;
-  width: 80%;
-  padding: 10px;
-  margin: 5px;
-  font-weight: bold;
+  border: 2px solid red;
+  border-radius: 15px;
 }
 
 button {
