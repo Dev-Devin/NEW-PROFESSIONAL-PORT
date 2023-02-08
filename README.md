@@ -6,10 +6,12 @@ https://dev-devin.github.io/NEW-PROFESSIONAL-PORT/
 
 This is a professional portfolio about myself
 
-I created this so potential employers can see my information in a centralized place
-This combines the contents of a resumé, cover letter, and personal interests narrative
+I created this so potential employers can see my information in one place,
+This shows the contents of a resumé, cover letter.
 
 # Screenshots
+
+![alt text](./img/Screen%20Shot%202023-02-08%20at%209.42.01%20AM.png)
 
 # Usage
 
