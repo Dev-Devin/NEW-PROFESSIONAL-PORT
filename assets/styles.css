@@ -226,6 +226,9 @@ button:hover {
   font-weight: bold;
 }
 
+.contact-info img {
+  height: 15px;
+}
 footer {
   position: fixed;
   bottom: 0;
